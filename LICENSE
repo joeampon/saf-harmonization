@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Joseph Amponsah
+Copyright (c) 2026 joeampon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+DATA ATTRIBUTION:
+
+This software uses publicly available data from the following sources:
+
+1. Tao, L., et al. (2017). "Techno-economic analysis and life-cycle assessment 
+   of cellulosic isobutanol and comparison with cellulosic ethanol and n-butanol." 
+   Green Chemistry, DOI: 10.1039/C6GC02800D
+
+2. Han, J., et al. (2017). "Life-cycle analysis of bio-based aviation fuels." 
+   Biotechnology for Biofuels, DOI: 10.1186/s13068-017-0698-z
+
+3. GREET Model (2023). Argonne National Laboratory. 
+   Available at: https://greet.es.anl.gov
+
+Users must cite these original sources when publishing results derived from this code.
